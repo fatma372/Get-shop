@@ -141,3 +141,10 @@ footer{
     align-items: center;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
+
+@media (max-width: 450spx){
+    .category{
+        font-size: 10px;
+    }
+
+}
