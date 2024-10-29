@@ -142,7 +142,7 @@ footer{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
-@media (max-width: 450spx){
+@media (max-width: 450px){
     .category{
         font-size: 10px;
     }
